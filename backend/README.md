@@ -1,0 +1,1 @@
+Welcome to your new intelligent travel companion the VOYAGR! This project is an AI-powered travel planner designed to make organizing your next adventure seamless and exciting. Forget spending hours searching through countless websites. Our application generates personalized, day-by-day itineraries tailored to your interests.
